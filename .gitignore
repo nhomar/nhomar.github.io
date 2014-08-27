@@ -52,3 +52,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Pelican generation (I will use travis)
+cache/*
+*.pid
+output/*
