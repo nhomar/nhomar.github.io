@@ -13,8 +13,8 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     if [ "$TRAVIS" == "true" ]; then
         git config --global user.email "travis@travis-ci.org"
         git config --global user.name "Travis"
+        git clone --quiet --branch=$PELICAN_BOOTSTRAP_BRANCH https://github.com/$PELICAN_BOOTSTRAP_REPO $HOME/pelican-bootstrap3 > /dev/null
     fi
-    git clone --quiet --branch=$PELICAN_BOOTSTRAP_BRANCH https://github.com/$PELICAN_BOOTSTRAP_REPO pelican-bootstrap3 > /dev/null
     #using token clone gh-pages, or master branch
     git clone --quiet --branch=$BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
     #go into directory and copy data we're interested in to that directory
