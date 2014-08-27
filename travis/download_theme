@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+PELICAN_BOOTSTRAP_BRANCH="master"
+PELICAN_BOOTSTRAP_REPO="nhomar/pelican-bootstrap3.git"
+git clone --quiet --branch=$PELICAN_BOOTSTRAP_BRANCH https://github.com/$PELICAN_BOOTSTRAP_REPO $HOME/pelican-bootstrap3 > /dev/null

@@ -19,4 +19,5 @@ env:
   - secure: tY5eDaEk0GPUuXtkISDAceE9sjt5rVB1vcQ/7/zAYZsCp75y/jinKP393OPqxspW8yWk2UGmJnN8lU91ERF5XjKtQufFaeZJEY46Or90wIBpubWcCjzdk+MUGsu2hmUwwRKKnFFMQshGzw4WZXnBm+0c1HWeqbEqVLVIQhNb5aI=
 before_install:
 - git submodule update --init --recursive
+- bash/download_theme
 after_success: bash deploy.sh
