@@ -34,8 +34,10 @@ DEFAULT_PAGINATION = 10
 
 #pelican-bootstrap3 stuff
 import os
+for i in os.listdir('.'):
+    print 'Dir found ...... %s' % (i)
 if os.path.isdir('pelican-bootstrap3'):
-    THEME='pelican-bootstrap3'
+    THEME='pelican-bootstrap3/'
 else:
     THEME='../pelican-bootstrap3/'
 BOOTSTRAP_THEME = 'vauxoo'
