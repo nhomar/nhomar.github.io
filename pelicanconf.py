@@ -33,7 +33,10 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 #pelican-bootstrap3 stuff
-
-THEME='../pelican-bootstrap3/'
+import os
+if os.path.isdir('pelican-bootstrap3'):
+    THEME='pelican-bootstrap3'
+else:
+    THEME='../pelican-bootstrap3/'
 BOOTSTRAP_THEME = 'vauxoo'
 SHOW_ARTICLE_AUTHOR = True
