@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Caracas'
 
 DEFAULT_LANG = u'es'
 
@@ -31,3 +31,9 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+#pelican-bootstrap3 stuff
+
+THEME='../pelican-bootstrap3/'
+BOOTSTRAP_THEME = 'vauxoo'
+SHOW_ARTICLE_AUTHOR = True
