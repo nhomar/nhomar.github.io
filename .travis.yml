@@ -7,7 +7,7 @@ python:
 install:
 - pip install -r requirements.txt --use-mirrors
 script:
-- make html --theme-path=$HOME/pelican-bootstrap3
+- make html
 notifications:
   email:
     on_success: always
