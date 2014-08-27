@@ -1,6 +1,6 @@
 branches:
   only:
-  - master
+  - gererator
 language: python
 python:
 - 2.7

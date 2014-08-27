@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-BRANCH=gh-pages
+BRANCH=master
 TARGET_REPO=nhomar/nhomar.github.io.git
-PELICAN_OUTPUT_FOLDER=
+PELICAN_OUTPUT_FOLDER=output
 
 echo -e "Testing travis-encrypt"
 echo -e "$VARNAME"
