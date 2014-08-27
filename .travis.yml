@@ -7,8 +7,8 @@ python:
 install:
 - pip install -r requirements.txt --use-mirrors
 env:
-- PELICAN_BOOTSTRAP_BRANCH=master
-- PELICAN_BOOTSTRAP_REPO=nhomar/pelican-bootstrap3.git
+- PELICAN_BOOTSTRAP_BRANCH="master"
+- PELICAN_BOOTSTRAP_REPO="nhomar/pelican-bootstrap3.git"
 
 script:
 - git clone --quiet --branch=$PELICAN_BOOTSTRAP_BRANCH https://github.com/$PELICAN_BOOTSTRAP_REPO pelican-bootstrap3 > /dev/null
