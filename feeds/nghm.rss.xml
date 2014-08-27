@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog de Gerónimo</title><link>/</link><description></description><atom:link href="/feeds/nghm.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 04 Oct 2010 18:40:00 +0200</lastBuildDate><item><title>My super title</title><link>/hello-world.html</link><description>&lt;p&gt;Testing Pelican&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nghm</dc:creator><pubDate>Mon, 04 Oct 2010 18:40:00 +0200</pubDate><guid>tag:,2010-10-03:hello-world.html</guid><category>thats</category><category>awesome</category></item></channel></rss>
