@@ -39,8 +39,8 @@ for i in os.listdir(os.getenv('HOME')):
     print 'Dirs in home found .... %s' % i
 if os.path.isdir('../pelican-bootstrap3'):
     THEME='../pelican-bootstrap3/'
-elif os.path.isdir(os.path.join(os.getenv('HOME'), '/pelican-bootstrap3')):
-    THEME=os.path.join(os.getenv('HOME'), '/pelican-bootstrap3')
+elif os.path.isdir(os.path.join(os.getenv('HOME'), 'pelican-bootstrap3')):
+    THEME=os.path.join(os.getenv('HOME'), 'pelican-bootstrap3')
 
 BOOTSTRAP_THEME = 'vauxoo'
 SHOW_ARTICLE_AUTHOR = True
