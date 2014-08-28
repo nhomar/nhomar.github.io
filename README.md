@@ -28,9 +28,15 @@ of my company using bootswatch structure.
 Hacking This for your own purpose.
 ---
 
-A. Fork the repository.
-B. Save change the name of the repository to username.github.io.
-C. Clean all the “content” folder.
-D. Follow the manual of [pelican](https://docs.getpelican.com) to create and set your enviroment.
+1. Fork the repository.
+2. Save change the name of the repository to username.github.io.
+3. Clean all the “content” folder.
+4. Follow the manual of [pelican](https://docs.getpelican.com) to create and set your enviroment.
 
-TODO: Put here all commands to fork and improve.
+TODO:
+
+1. Put here all commands to fork and improve.
+2. Create a little script to create a new content or document myself how pelican does without manually set the metadata.
+3. Multi Lang.
+
+##The content of my blog is licenced under [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/idleberg/Creative-Commons-4.0-Markdown/blob/master/licenses/by-sa.markdown)
