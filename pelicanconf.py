@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Nhomar G Hern\xe1ndez M'
 SITENAME = u'Blog de Ger\xf3nimo'
-SITEURL = ''
+SITEURL = 'http://nhomar.github.io'
 
 PATH = 'content'
 
@@ -33,7 +33,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 #pelican-bootstrap3 stuff
 
@@ -68,9 +68,14 @@ TWITTER_USERNAME = 'nhomar'
 PLUGINS = [
     'pelican_youtube',
     'pelican_gist',
-    #'pelican_disqus',
+    #'local_plugins.disqus_static',
 ]
 
-#DISQUS_SITENAME = u'nhomarblog'
-#DISQUS_SECRET_KEY = u'YOUR_SECRET_KEY'
-#DISQUS_PUBLIC_KEY = u'YOUR_PUBLIC_KEY'
+#TODO: Enble disqus
+DISQUS_SITENAME = u'nhomarblog'
+
+#Github Stuff
+GITHUB_USER = 'nhomar'
+GITHUB_REPO_COUNT = '10'
+GITHUB_SHOW_USER_LINK = True
+GITHUB_SKIP_FORK = True
