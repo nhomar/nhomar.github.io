@@ -1,3 +1,6 @@
 pelican
 Markdown
 fabric
+pelican-youtube
+pelican-gist
+disqus-python
