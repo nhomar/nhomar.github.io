@@ -1,3 +1,6 @@
+[![Build Status Generator (Blog)](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=generator)](https://travis-ci.org/nhomar/nhomar.github.io)
+[![Build Status Master (Generated Pages)](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=master)](https://travis-ci.org/nhomar/nhomar.github.io)
+
 Nhomar’s Blog
 ---
 
