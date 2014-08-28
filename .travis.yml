@@ -2,4 +2,7 @@ branches:
     only:
     - master
 
-script: ls
+script:
+- ls index.html #Test it was generated and not deleted.
+- ls pages
+- ls theme/theme/js/bootstrap.min.js #Specific for my case, the theme was setted correctly.
