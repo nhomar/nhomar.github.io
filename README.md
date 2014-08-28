@@ -1,7 +1,7 @@
 
-| generator                                                                                                                                         | master                                                                                                                                      |
-| ---------                                                                                                                                         | -------                                                                                                                                     |
-| [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=generator)](https://travis-ci.org/nhomar/nhomar.github.io) *generator*: | [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=master)](https://travis-ci.org/nhomar/nhomar.github.io) *master*: |
+| generator                                                                                                                            | master                                                                                                                             |
+| ---------                                                                                                                            | -------                                                                                                                            |
+| [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=generator)](https://travis-ci.org/nhomar/nhomar.github.io) | [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=master)](https://travis-ci.org/nhomar/nhomar.github.io)  |
 
 Nhomar’s Blog
 ---
