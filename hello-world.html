@@ -10,7 +10,7 @@
 
 
 
-<link rel="canonical" href="/hello-world.html">
+<link rel="canonical" href="./hello-world.html">
 
         <meta name="author" content="nghm" />
         <meta name="keywords" content="thats,awesome" />
@@ -19,11 +19,11 @@
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="/theme/css/bootstrap.vauxoo.min.css" type="text/css"/>
-    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="./theme/css/bootstrap.vauxoo.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
 
 </head>
@@ -38,23 +38,23 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="/" class="navbar-brand">
+            <a href="./" class="navbar-brand">
 Blog de Gerónimo            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="/pages/acerca-de-mi.html">
+                         <li><a href="./pages/acerca-de-mi.html">
                              Acerca de Mí
                           </a></li>
-                         <li><a href="/pages/contactos.html">
+                         <li><a href="./pages/contactos.html">
                              Contactos
                           </a></li>
                         <li class="active">
-                            <a href="/category/tests.html">Tests</a>
+                            <a href="./category/tests.html">Tests</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+                <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -65,7 +65,7 @@ Blog de Gerónimo            </a>
     <div class="row">
         <div class="col-sm-9">
             <ol class="breadcrumb">
-                <li><a href="" title="Blog de Gerónimo"><i class="fa fa-home fa-lg"></i></a></li>
+                <li><a href="." title="Blog de Gerónimo"><i class="fa fa-home fa-lg"></i></a></li>
                 <li class="active">My super title</li>
             </ol>
 
@@ -73,7 +73,7 @@ Blog de Gerónimo            </a>
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="/hello-world.html"
+                    <a href="./hello-world.html"
                        rel="bookmark"
                        title="Permalink to My super title">
                         My super title
@@ -89,14 +89,14 @@ Blog de Gerónimo            </a>
         <i class="fa fa-calendar"></i><time datetime="2010-10-03T10:20:00"> Sun 03 October 2010</time>
     </span>
             <span class="label label-default">By</span>
-            <a href="/author/nghm.html"><i class="fa fa-user"></i> nghm</a>
+            <a href="./author/nghm.html"><i class="fa fa-user"></i> nghm</a>
 
 
 
 <span class="label label-default">Tags</span>
-	<a href="/tag/thats.html">thats</a>
+	<a href="./tag/thats.html">thats</a>
         /
-	<a href="/tag/awesome.html">awesome</a>
+	<a href="./tag/awesome.html">awesome</a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
@@ -110,6 +110,36 @@ Testing Pelican</p>
 
             </div>
             <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'nhomarblog'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'hello-world';
+                var disqus_url = './hello-world.html';
+
+            var disqus_config = function () {
+                this.language = "es";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
         </article>
     </section>
 
@@ -133,20 +163,27 @@ Testing Pelican</p>
 
 
 
-                <li class="list-group-item"><a href="/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <li class="list-group-item"><a href="./"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group " id="tags">
                         <li class="list-group-item tag-1">
-                            <a href="/tag/awesome.html">
+                            <a href="./tag/awesome.html">
                                 awesome
                             </a>
                         </li>
                         <li class="list-group-item tag-1">
-                            <a href="/tag/thats.html">
+                            <a href="./tag/thats.html">
                                 thats
                             </a>
                         </li>
                     </ul>
                 </li>    
+
+    <li class="list-group-item"><h4><i class="fa fa-github fa-lg"></i><span class="icon-label">GitHub Repos</span></h4>
+        <div id="gh_repos">
+            <p class="list-group-item">Status updating...</p>
+        </div>
+            <a href="https://github.com/nhomar">@nhomar</a> on GitHub
+    </li>
 
     <li class="list-group-item"><h4><i class="fa fa-twitter fa-lg"></i><span class="icon-label">Latest Tweets</span></h4></li>
     <div id="twitter_timeline">
@@ -207,13 +244,49 @@ Testing Pelican</p>
       </div>
    </div>
 </footer>
-<script src="/theme/js/jquery.min.js"></script>
+<script src="./theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/theme/js/bootstrap.min.js"></script>
+<script src="./theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="/theme/js/respond.min.js"></script>
+<script src="./theme/js/respond.min.js"></script>
 
+    <!-- GitHub JS -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (!window.jXHR) {
+                var jxhr = document.createElement('script');
+                jxhr.type = 'text/javascript';
+                jxhr.src = './theme/js/jXHR.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(jxhr, s);
+            }
+
+            github.showRepos({
+                user: 'nhomar',
+                count: 10,
+                skip_forks: true,
+                target: '#gh_repos'
+            });
+        });
+    </script>
+    <script src="./theme/js/github.js" type="text/javascript"></script>
+    <!-- End GitHub JS Code -->
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'nhomarblog'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
 </body>
 </html>
