@@ -33,6 +33,13 @@ Hacking This for your own purpose.
 3. Clean all the “content” folder.
 4. Follow the manual of [pelican](https://docs.getpelican.com) to create and set your enviroment.
 
+Creating Content.
+---
+
+1. Create an article or page under the folder “content”.
+2. Create the [metadata](http://docs.getpelican.com/en/3.4.0/content.html#file-metadata) for that file.
+3. Write [rst](http://docutils.sourceforge.net/docs/user/rst/quickref.html)
+
 TODO:
 
 1. Put here all commands to fork and improve.
