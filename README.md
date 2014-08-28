@@ -47,5 +47,6 @@ TODO:
 1. Put here all commands to fork and improve.
 2. Create a little script to create a new content or document myself how pelican does without manually set the metadata.
 3. Multi Lang.
+4. [Implementar este plugin para tener las fechas desde el commit.](https://github.com/getpelican/pelican-plugins/tree/master/filetime_from_git)
 
 ###The content of my blog is licenced under [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/idleberg/Creative-Commons-4.0-Markdown/blob/master/licenses/by-sa.markdown)
