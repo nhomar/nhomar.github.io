@@ -1,5 +1,7 @@
-Generator (Blog) [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=generator)](https://travis-ci.org/nhomar/nhomar.github.io)
-Master (Generated Pages) [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=master)](https://travis-ci.org/nhomar/nhomar.github.io)
+
+| generator                                                                                                                                         | master                                                                                                                                      |
+| ---------                                                                                                                                         | -------                                                                                                                                     |
+| [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=generator)](https://travis-ci.org/nhomar/nhomar.github.io) *generator*: | [![Build Status](https://travis-ci.org/nhomar/nhomar.github.io.svg?branch=master)](https://travis-ci.org/nhomar/nhomar.github.io) *master*: |
 
 Nhomar’s Blog
 ---
@@ -46,4 +48,4 @@ TODO:
 2. Create a little script to create a new content or document myself how pelican does without manually set the metadata.
 3. Multi Lang.
 
-##The content of my blog is licenced under [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/idleberg/Creative-Commons-4.0-Markdown/blob/master/licenses/by-sa.markdown)
+###The content of my blog is licenced under [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/idleberg/Creative-Commons-4.0-Markdown/blob/master/licenses/by-sa.markdown)
