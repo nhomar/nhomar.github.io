@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog de Gerónimo</title><link>http://nhomar.github.io/</link><description></description><atom:link href="http://nhomar.github.io/feeds/nghm.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 04 Oct 2010 18:40:00 -0530</lastBuildDate><item><title>My test with gist</title><link>http://nhomar.github.io/test-gist.html</link><description>&lt;p&gt;This is only to make the hello world embebing a gist&lt;/p&gt;
-&lt;div class="gist"&gt;
-    &lt;script src='https://gist.github.com/c4ac352ebd62a636017f.js?file=action_view.xml'&gt;&lt;/script&gt;
-    &lt;noscript&gt;
-        &lt;pre&gt;&lt;code&gt;&lt;record id="{{ xml_id }}" model="ir.actions.act_window"&gt;
-  &lt;field name="name"&gt;{{ action_name }}&lt;/field&gt;
-  &lt;field name="res_model"&gt;{{ model_name }}&lt;/field&gt;
-  &lt;field name="view_type"&gt;{{  }}&lt;/field&gt;
-  &lt;field name="view_id" ref="{{ xml_id_view }}"/&gt;
-  &lt;field name="context"&gt;{}&lt;/field&gt;
-  &lt;field name="search_view_id" ref="{{ xml_id_search_view }}"/&gt;
-  &lt;field name="view_mode"&gt;tree,form&lt;/field&gt;
-  &lt;field name="domain"&gt;[]&lt;/field&gt;
-  &lt;field name="help" type="html"&gt;
-    &lt;p class="oe_view_nocontent_create"&gt;
-      Click to create a customer invoice.
-    &lt;/p&gt;
-  &lt;/field&gt;
-&lt;/record&gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/noscript&gt;
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nghm</dc:creator><pubDate>Sun, 03 Oct 2010 10:20:00 -0530</pubDate><guid>tag:nhomar.github.io,2010-10-03:test-gist.html</guid><category>thats</category><category>awesome</category></item><item><title>My test youtube plugin</title><link>http://nhomar.github.io/test-youtube.html</link><description>&lt;p&gt;This is only to make the hello world embebing a youtube video.&lt;/p&gt;
-&lt;div class="youtube" align="center"&gt;&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/BKorP55Aqvg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nghm</dc:creator><pubDate>Mon, 04 Oct 2010 18:40:00 -0530</pubDate><guid>tag:nhomar.github.io,2010-10-03:test-youtube.html</guid><category>thats</category><category>awesome</category></item><item><title>¿Por qué Gerónimo?</title><link>http://nhomar.github.io/why-geronimo.html</link><description>&lt;p&gt;Muy pocas personas se sienten tan orgullosas de sus nombres como es mi caso,
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog de Gerónimo</title><link>http://nhomar.github.io/</link><description></description><atom:link href="http://nhomar.github.io/feeds/nghm.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 28 Aug 2014 04:37:00 -0530</lastBuildDate><item><title>¿Por qué Gerónimo?</title><link>http://nhomar.github.io/why-geronimo.html</link><description>&lt;p&gt;Muy pocas personas se sienten tan orgullosas de sus nombres como es mi caso,
 realmente todo fué producto de ciertas casualidades en mi vida y un poco de
 creatividad de mi padre aquí la historia.&lt;/p&gt;
 &lt;p&gt;Sucede que cuando nací una tía la cual aprecio muchísimo le dijo a mi Padre,
@@ -53,4 +32,25 @@ hoy mi nombre sería &lt;cite&gt;Ilegal&lt;/cite&gt;.&lt;/p&gt;
 &lt;p&gt;Hoy mi hijo se llama Andrés Gerónimo un poco para seguir la idea del Indio y
 honrar el nombre que mi mamá quería que yo tuviese así que ¿veamos cómo nos va
 con el?, yo he intentado honrarlo lo mejor posible.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nghm</dc:creator><pubDate>Mon, 04 Oct 2010 18:40:00 -0530</pubDate><guid>tag:nhomar.github.io,2010-10-03:why-geronimo.html</guid><category>thats</category><category>awesome</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nghm</dc:creator><pubDate>Thu, 28 Aug 2014 04:37:00 -0530</pubDate><guid>tag:nhomar.github.io,2014-08-28:why-geronimo.html</guid><category>personal</category><category>historia</category><category>me</category></item><item><title>My test with gist</title><link>http://nhomar.github.io/test-gist.html</link><description>&lt;p&gt;This is only to make the hello world embebing a gist&lt;/p&gt;
+&lt;div class="gist"&gt;
+    &lt;script src='https://gist.github.com/c4ac352ebd62a636017f.js?file=action_view.xml'&gt;&lt;/script&gt;
+    &lt;noscript&gt;
+        &lt;pre&gt;&lt;code&gt;&lt;record id="{{ xml_id }}" model="ir.actions.act_window"&gt;
+  &lt;field name="name"&gt;{{ action_name }}&lt;/field&gt;
+  &lt;field name="res_model"&gt;{{ model_name }}&lt;/field&gt;
+  &lt;field name="view_type"&gt;{{  }}&lt;/field&gt;
+  &lt;field name="view_id" ref="{{ xml_id_view }}"/&gt;
+  &lt;field name="context"&gt;{}&lt;/field&gt;
+  &lt;field name="search_view_id" ref="{{ xml_id_search_view }}"/&gt;
+  &lt;field name="view_mode"&gt;tree,form&lt;/field&gt;
+  &lt;field name="domain"&gt;[]&lt;/field&gt;
+  &lt;field name="help" type="html"&gt;
+    &lt;p class="oe_view_nocontent_create"&gt;
+      Click to create a customer invoice.
+    &lt;/p&gt;
+  &lt;/field&gt;
+&lt;/record&gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/noscript&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nghm</dc:creator><pubDate>Sun, 03 Oct 2010 10:20:00 -0530</pubDate><guid>tag:nhomar.github.io,2010-10-03:test-gist.html</guid><category>thats</category><category>awesome</category></item><item><title>My test youtube plugin</title><link>http://nhomar.github.io/test-youtube.html</link><description>&lt;p&gt;This is only to make the hello world embebing a youtube video.&lt;/p&gt;
+&lt;div class="youtube" align="center"&gt;&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/BKorP55Aqvg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nghm</dc:creator><pubDate>Mon, 04 Oct 2010 18:40:00 -0530</pubDate><guid>tag:nhomar.github.io,2010-10-03:test-youtube.html</guid><category>thats</category><category>awesome</category></item></channel></rss>

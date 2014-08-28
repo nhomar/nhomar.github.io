@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog de Gerónimo</title><link href="http://nhomar.github.io/" rel="alternate"></link><link href="http://nhomar.github.io/feeds/nghm.atom.xml" rel="self"></link><id>http://nhomar.github.io/</id><updated>2010-10-04T18:40:00-05:30</updated><entry><title>My test with gist</title><link href="http://nhomar.github.io/test-gist.html" rel="alternate"></link><updated>2010-10-03T10:20:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-gist.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a gist&lt;/p&gt;
-&lt;div class="gist"&gt;
-    &lt;script src='https://gist.github.com/c4ac352ebd62a636017f.js?file=action_view.xml'&gt;&lt;/script&gt;
-    &lt;noscript&gt;
-        &lt;pre&gt;&lt;code&gt;&lt;record id="{{ xml_id }}" model="ir.actions.act_window"&gt;
-  &lt;field name="name"&gt;{{ action_name }}&lt;/field&gt;
-  &lt;field name="res_model"&gt;{{ model_name }}&lt;/field&gt;
-  &lt;field name="view_type"&gt;{{  }}&lt;/field&gt;
-  &lt;field name="view_id" ref="{{ xml_id_view }}"/&gt;
-  &lt;field name="context"&gt;{}&lt;/field&gt;
-  &lt;field name="search_view_id" ref="{{ xml_id_search_view }}"/&gt;
-  &lt;field name="view_mode"&gt;tree,form&lt;/field&gt;
-  &lt;field name="domain"&gt;[]&lt;/field&gt;
-  &lt;field name="help" type="html"&gt;
-    &lt;p class="oe_view_nocontent_create"&gt;
-      Click to create a customer invoice.
-    &lt;/p&gt;
-  &lt;/field&gt;
-&lt;/record&gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/noscript&gt;
-&lt;/div&gt;</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>My test youtube plugin</title><link href="http://nhomar.github.io/test-youtube.html" rel="alternate"></link><updated>2010-10-04T18:40:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-youtube.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a youtube video.&lt;/p&gt;
-&lt;div class="youtube" align="center"&gt;&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/BKorP55Aqvg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>¿Por qué Gerónimo?</title><link href="http://nhomar.github.io/why-geronimo.html" rel="alternate"></link><updated>2010-10-04T18:40:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:why-geronimo.html</id><summary type="html">&lt;p&gt;Muy pocas personas se sienten tan orgullosas de sus nombres como es mi caso,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog de Gerónimo</title><link href="http://nhomar.github.io/" rel="alternate"></link><link href="http://nhomar.github.io/feeds/nghm.atom.xml" rel="self"></link><id>http://nhomar.github.io/</id><updated>2014-08-28T04:37:00-05:30</updated><entry><title>¿Por qué Gerónimo?</title><link href="http://nhomar.github.io/why-geronimo.html" rel="alternate"></link><updated>2014-08-28T04:37:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2014-08-28:why-geronimo.html</id><summary type="html">&lt;p&gt;Muy pocas personas se sienten tan orgullosas de sus nombres como es mi caso,
 realmente todo fué producto de ciertas casualidades en mi vida y un poco de
 creatividad de mi padre aquí la historia.&lt;/p&gt;
 &lt;p&gt;Sucede que cuando nací una tía la cual aprecio muchísimo le dijo a mi Padre,
@@ -53,4 +32,25 @@ hoy mi nombre sería &lt;cite&gt;Ilegal&lt;/cite&gt;.&lt;/p&gt;
 &lt;p&gt;Hoy mi hijo se llama Andrés Gerónimo un poco para seguir la idea del Indio y
 honrar el nombre que mi mamá quería que yo tuviese así que ¿veamos cómo nos va
 con el?, yo he intentado honrarlo lo mejor posible.&lt;/p&gt;
-</summary><category term="thats"></category><category term="awesome"></category></entry></feed>
+</summary><category term="personal"></category><category term="historia"></category><category term="me"></category></entry><entry><title>My test with gist</title><link href="http://nhomar.github.io/test-gist.html" rel="alternate"></link><updated>2010-10-03T10:20:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-gist.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a gist&lt;/p&gt;
+&lt;div class="gist"&gt;
+    &lt;script src='https://gist.github.com/c4ac352ebd62a636017f.js?file=action_view.xml'&gt;&lt;/script&gt;
+    &lt;noscript&gt;
+        &lt;pre&gt;&lt;code&gt;&lt;record id="{{ xml_id }}" model="ir.actions.act_window"&gt;
+  &lt;field name="name"&gt;{{ action_name }}&lt;/field&gt;
+  &lt;field name="res_model"&gt;{{ model_name }}&lt;/field&gt;
+  &lt;field name="view_type"&gt;{{  }}&lt;/field&gt;
+  &lt;field name="view_id" ref="{{ xml_id_view }}"/&gt;
+  &lt;field name="context"&gt;{}&lt;/field&gt;
+  &lt;field name="search_view_id" ref="{{ xml_id_search_view }}"/&gt;
+  &lt;field name="view_mode"&gt;tree,form&lt;/field&gt;
+  &lt;field name="domain"&gt;[]&lt;/field&gt;
+  &lt;field name="help" type="html"&gt;
+    &lt;p class="oe_view_nocontent_create"&gt;
+      Click to create a customer invoice.
+    &lt;/p&gt;
+  &lt;/field&gt;
+&lt;/record&gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/noscript&gt;
+&lt;/div&gt;</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>My test youtube plugin</title><link href="http://nhomar.github.io/test-youtube.html" rel="alternate"></link><updated>2010-10-04T18:40:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-youtube.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a youtube video.&lt;/p&gt;
+&lt;div class="youtube" align="center"&gt;&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/BKorP55Aqvg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="thats"></category><category term="awesome"></category></entry></feed>
