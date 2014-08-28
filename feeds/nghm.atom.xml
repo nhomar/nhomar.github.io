@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog de Gerónimo</title><link href="http://nhomar.github.io/" rel="alternate"></link><link href="http://nhomar.github.io/feeds/nghm.atom.xml" rel="self"></link><id>http://nhomar.github.io/</id><updated>2010-10-04T18:40:00-05:30</updated><entry><title>My super title</title><link href="http://nhomar.github.io/hello-world.html" rel="alternate"></link><updated>2010-10-04T18:40:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:hello-world.html</id><summary type="html">&lt;p&gt;Testing Pelican
-Testing Pelican
-Testing Pelican
-Testing Pelican
-Testing Pelican
-Testing Pelican
-Testing Pelican&lt;/p&gt;
-</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>My test with gist</title><link href="http://nhomar.github.io/test-gist.html" rel="alternate"></link><updated>2010-10-03T10:20:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-gist.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a gist&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog de Gerónimo</title><link href="http://nhomar.github.io/" rel="alternate"></link><link href="http://nhomar.github.io/feeds/nghm.atom.xml" rel="self"></link><id>http://nhomar.github.io/</id><updated>2010-10-04T18:40:00-05:30</updated><entry><title>My test with gist</title><link href="http://nhomar.github.io/test-gist.html" rel="alternate"></link><updated>2010-10-03T10:20:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-gist.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a gist&lt;/p&gt;
 &lt;div class="gist"&gt;
     &lt;script src='https://gist.github.com/c4ac352ebd62a636017f.js?file=action_view.xml'&gt;&lt;/script&gt;
     &lt;noscript&gt;
@@ -27,4 +20,34 @@ Testing Pelican&lt;/p&gt;
 &lt;/record&gt;&lt;/code&gt;&lt;/pre&gt;
     &lt;/noscript&gt;
 &lt;/div&gt;</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>My test youtube plugin</title><link href="http://nhomar.github.io/test-youtube.html" rel="alternate"></link><updated>2010-10-04T18:40:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-youtube.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a youtube video.&lt;/p&gt;
-&lt;div class="youtube" align="center"&gt;&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/BKorP55Aqvg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="thats"></category><category term="awesome"></category></entry></feed>
+&lt;div class="youtube" align="center"&gt;&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/BKorP55Aqvg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>¿Por qué Gerónimo?</title><link href="http://nhomar.github.io/why-geronimo.html" rel="alternate"></link><updated>2010-10-04T18:40:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:why-geronimo.html</id><summary type="html">&lt;p&gt;Muy pocas personas se sienten tan orgullosas de sus nombres como es mi caso,
+realmente todo fué producto de ciertas casualidades en mi vida y un poco de
+creatividad de mi padre aquí la historia.&lt;/p&gt;
+&lt;p&gt;Sucede que cuando nací una tía la cual aprecio muchísimo le dijo a mi Padre,
+¡Ese muchacho tiene pinta de que va a ser &lt;a class="reference external" href="http://maracucholario.blogspot.com/2013/03/vergatario.html"&gt;vergatario&lt;/a&gt; ! y yo conozco un indio
+con esas características nombre que siempre quise darle a mis hijos y no me
+dejaron ése nombre es Gerónimo, es algo gracioso, ya que llamó a su hijo
+&lt;em&gt;Alberto&lt;/em&gt; en honor a su papá, mi tío.&lt;/p&gt;
+&lt;p&gt;En aquellas épocas presentar a un niño era un tanto más sencillo que ahora, mi
+Mamá se opuso rotundamente (ella quería llamarme Andrés) mi Papá al que hoy en
+día creo que me parezco muchísimo estaba absolutamente seguro que ese tenía que
+ser el nombre entonces fué a la prefectura y sin dudarlo me bautizó Gerónimo.&lt;/p&gt;
+&lt;p&gt;Sin embargo, la historia no terminaba allí necesitaba un primero o segundo
+nombre, mi papá se llamaba Ramón, así que cómo mi Mamá había decidido llamarme
+Nomar, mi papá se preguntó ¿de que forma puedo hacer que el nombre de mi hijo
+sea único?.&lt;/p&gt;
+&lt;p&gt;Sacó sus cuentas rápidamente y decidió intercalar una 'H', y me bautizó &amp;quot;Nhomar
+Gerónimo&amp;quot;, yo creo que mi papá hubiese sido un buen empresario en una startup
+actual, &amp;quot;Qué imaginación&amp;quot; hoy en día consigo mi dominio, correos cuentas en
+todos lados y simplemente no he conocido otra persona en el planeta con esa
+combinación de nombres yo creo que era un genio!, si el hubiese predicho lo
+complicado &lt;a class="reference external" href="http://lmgtfy.com/?q=nhomar"&gt;pero útil&lt;/a&gt; que es tener un nombre único hoy en día.&lt;/p&gt;
+&lt;p&gt;Con el pasar del tiempo he aprendido sobre los gerónimos en la historia y
+particularmente sobre éste &lt;em&gt;indio que mi tía mencionó&lt;/em&gt; sucede que fué un
+&lt;em&gt;revolucionario&lt;/em&gt; y el &lt;a class="reference external" href="http://es.wikipedia.org/wiki/Ger%C3%B3nimo"&gt;último gran jefe apache&lt;/a&gt; en busca de la simple justicia en
+su época.&lt;/p&gt;
+&lt;p&gt;En la investigación no he encontrado muchos gerónimos que puedan ser
+cosideradas malas personas, así que realmente lo único que puedo decir es
+&amp;quot;Gracias a Dios&amp;quot; no se le ocurrió otro más creativo del norte de México sino
+hoy mi nombre sería &lt;cite&gt;Ilegal&lt;/cite&gt;.&lt;/p&gt;
+</summary><category term="thats"></category><category term="awesome"></category></entry></feed>

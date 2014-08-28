@@ -157,3 +157,12 @@ figure.floatcenter, .align-center {
 .tagcloud li {
     padding: 0px;
 }
+/*
+ * Nhomar Was Here : TODO: move to custom.css
+ */
+.breadcrumb {
+    margin-bottom: 5px;
+    padding: 0 0 0 0;
+    border: none;
+    background: transparent;
+}
