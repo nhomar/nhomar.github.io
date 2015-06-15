@@ -32,7 +32,7 @@ hoy mi nombre sería &lt;cite&gt;Ilegal&lt;/cite&gt;.&lt;/p&gt;
 &lt;p&gt;Hoy mi hijo se llama Andrés Gerónimo un poco para seguir la idea del Indio y
 honrar el nombre que mi mamá quería que yo tuviese así que ¿veamos cómo nos va
 con el?, yo he intentado honrarlo lo mejor posible.&lt;/p&gt;
-</summary><category term="personal"></category><category term="historia"></category><category term="me"></category></entry><entry><title>My test with gist</title><link href="http://nhomar.github.io/test-gist.html" rel="alternate"></link><updated>2010-10-03T10:20:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-gist.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a gist&lt;/p&gt;
+</summary><category term="personal"></category><category term="historia"></category><category term="me"></category></entry><entry><title>My test with gist</title><link href="http://nhomar.github.io/test-gist.html" rel="alternate"></link><updated>2010-10-03T10:20:00-05:30</updated><author><name>nghm</name></author><id>tag:nhomar.github.io,2010-10-03:test-gist.html</id><summary type="html">&lt;p&gt;This is only to make the hello world embebing a gist.&lt;/p&gt;
 &lt;div class="gist"&gt;
     &lt;script src='https://gist.github.com/c4ac352ebd62a636017f.js?file=action_view.xml'&gt;&lt;/script&gt;
     &lt;noscript&gt;
