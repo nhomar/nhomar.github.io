@@ -56,3 +56,4 @@ docs/_build/
 cache/*
 *.pid
 output/*
+.idea
