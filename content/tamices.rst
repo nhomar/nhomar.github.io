@@ -1,6 +1,15 @@
 LOS TRES TAMICES DE SÓCRATES:
 -----------------------------
 
+:title: Los tres tamices.
+:date: 2019-07-30 07:45
+:tags: github, python
+:category: frases, phrases
+:slug: tres-tamices
+:authors: nghm
+:summary: Los tres tamices de Sócrates.
+
+
 En la antigua Grecia Sócrates tenía una gran reputación de sabiduría. Un día vino alguien a encontrarse con el gran filósofo, y le dijo:
 
 - ¿Sabes lo que acabo de oír sobre tu amigo?.

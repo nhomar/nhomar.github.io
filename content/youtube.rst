@@ -14,4 +14,3 @@ This is only to make the hello world embebing a youtube video.
 .. youtube:: BKorP55Aqvg
     :width: 600
     :height: 400
-    :align: center
